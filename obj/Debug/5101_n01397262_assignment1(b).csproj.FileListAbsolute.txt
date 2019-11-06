@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\5101_n01397262_assignment1(b)\obj\Debug\5101_n01397262_assignment1(b).csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\5101_n01397262_assignment1(b)\obj\Debug\5101_n01397262_assignment1(b).csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\5101_n01397262_assignment1(b)\obj\Debug\5101_n01397262_assignment1(a).dll
+C:\Users\Admin\source\repos\5101_n01397262_assignment1(b)\obj\Debug\5101_n01397262_assignment1(a).pdb
